@@ -4,6 +4,10 @@
     background-color: palevioletred;
 }
 
+.number-2-font-size {
+    font-size: 24px;
+}
+
 #bluetextbigfont {
     color: blue;
     font-size: 36px;
