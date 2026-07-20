@@ -3,3 +3,8 @@
 .im-a-class {
     background-color: palevioletred;
 }
+
+#bluetextbigfont {
+    color: blue;
+    font-size: 36px;
+}
